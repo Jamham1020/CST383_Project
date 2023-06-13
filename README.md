@@ -34,7 +34,7 @@ Also, we searched and looked at the valuable insights from healthcare profession
 _What answer was found to the research question; what did the study find? Was the tested hypothesis true? Any visualizations?_
 
 ## Discussion
-_What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research? Survey about the tools investigated for this assignment.
+_What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research? Survey about the tools investigated for this assignment._
 
 ## Summary
 
