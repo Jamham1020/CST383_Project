@@ -39,4 +39,7 @@ _What might the answer imply and why does it matter? How does it fit in with wha
 ## Summary
 
 
+## Citations/Bibliography
+"Diabetes Fast Facts." Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 4 April 2023, https://www.cdc.gov/diabetes/basics/quick-facts.html
+
 
