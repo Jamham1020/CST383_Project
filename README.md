@@ -10,6 +10,7 @@ This project was undertaken because our team believed it is a matter that requir
 _What was the research question, the tested hypothesis or the purpose of the research?_
 
 Our research question is, how accurate is using machine learning, data science, and visualization techniques to predict the early detection of diabetes? 
+We hypothesized that there is a way to apply machine learning and tools to predict and detect for early signs of diabetes.
 
 ## Selection of Data
 _What is the source of the dataset? Characteristics of data?_
