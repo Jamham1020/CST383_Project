@@ -8,6 +8,7 @@ _Why was the project undertaken?_
 This project was undertaken because our team believed it is a matter that requires immediate attention to data science and visualization techniques to improve diabetes detection and prediction. The practice with analytical methods and visualizing predictions was to empower healthcare professionals with valuable insights, enabling timely interventions and more effective management of the disease. Also, making an impact on the advancement of medical practices would help to improve outcomes for individuals affected by diabetes.Furthermore, according to CDC, more than 37 million people in the US have diabetes and about 1 in 5 of them do not have diabetes. Within is 96 million US adults, over a third-have prediabetes, and more than 8 in 10 of them don't know they have it. Diabetes is also the eighth leading cause of death in the US. 
 
 _What was the research question, the tested hypothesis or the purpose of the research?_
+
 We hypothesized that
 
 ## Selection of Data
