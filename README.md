@@ -61,4 +61,5 @@ The study found that age, gender, and specific symptoms such as frequent urinati
 ## Citations/Bibliography
 "Diabetes Fast Facts." Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 4 April 2023, https://www.cdc.gov/diabetes/basics/quick-facts.html
 
+"Statistics About Diabetes". American Diabetes Association, American Diabetes Association, 28 July 2023, https://diabetes.org/about-us/statistics/about-diabetes
 
