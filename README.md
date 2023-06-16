@@ -63,3 +63,6 @@ The study found that age, gender, and specific symptoms such as frequent urinati
 
 "Statistics About Diabetes". American Diabetes Association, American Diabetes Association, 28 July 2023, https://diabetes.org/about-us/statistics/about-diabetes
 
+"Early stage diabetes risk prediction dataset" (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5VG8H.
+
+
