@@ -65,4 +65,7 @@ The study found that age, gender, and specific symptoms such as frequent urinati
 
 "Early stage diabetes risk prediction dataset" (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5VG8H.
 
+## Presentation video with a demo addressing the rubric.
+https://www.youtube.com/watch?v=Y5HTCSYkSCs
+
 
